@@ -1,7 +1,5 @@
 ## About me
 
-Born in Poland and raised in Spain, I've been interested in technology, computers, and STEM in general since my childhood years, always tinkering with what I had available and trying to help the less computer-savvy people around me. 
-
 Currently, I'm a Computer Science student at the University of Zaragoza. My studies have revolved around algorithms, AI, and language parsers. However, I'm also passionate about creating and managing systems, networking, and backends for web applications.
 
 <!-- TODO: Review -->
